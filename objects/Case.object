@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>dateResolution__c</fullName>
+        <description>contient la date à laquelle dossier est résolu (soit fermé , soit résolu) en fonction de l&apos;origine</description>
+        <externalId>false</externalId>
+        <label>Date/Heure de résolution</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>DateTime</type>
+    </fields>
+</CustomObject>

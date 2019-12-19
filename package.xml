@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>BatchDeleteMilestone</members>
+        <members>CaseMilestoneDeleter</members>
+        <members>CaseMilestoneDeleter_TEST</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Case.dateResolution__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>BatchMilestoneLimit</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <version>46.0</version>
+</Package>
